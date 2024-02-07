@@ -1,0 +1,11 @@
+{
+  "name": "Fable",
+  "id": "widget-id-vWYZT8kGv5",
+  "api": "1.0.0",
+  "editorType": ["figma","figjam"],
+  "permissions": [],
+  "containsWidget": true,
+  "main": "dist/code.js",
+  "ui": "dist/index.html",
+  "widgetApi": "1.0.0"
+}
